@@ -8,6 +8,7 @@
 
 ### Apps
 - slack https://slack.com/intl/en-ru/downloads/mac
+- telegram https://macos.telegram.org/
 
 ### Mini apps
 - spectacle
