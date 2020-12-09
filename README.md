@@ -25,14 +25,13 @@
 - nightowl https://nightowl.kramser.xyz/
 - tunelblick https://tunnelblick.net/downloads.html
 
-### IDEs
+### DEV
 - vscode https://code.visualstudio.com/
 - phpstorm
 - datagrip
 - goland
+- postman `brew install --cask postman`
 
 ### Terminal
 - zsh https://ohmyz.sh/
 - iterm2 https://iterm2.com/downloads.html
-ccbgjfhbeidbhiccknhgkkgrknblljihfcjvutgdfcdt
-
