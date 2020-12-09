@@ -7,6 +7,8 @@
 - Increase `tracking speed` by 1
 - Increase `key repeat` for keyboard to fastest
 - Increase `delay until repeat` to almost shortest
+- Disable page navigation with two finger gesture
+- Enable right mouse click with a two finger touch
 
 
 ### Install brew
@@ -35,3 +37,16 @@
 ### Terminal
 - zsh https://ohmyz.sh/
 - iterm2 https://iterm2.com/downloads.html
+
+
+### VS Code
+- eslint `code --install-extension dbaeumer.vscode-eslint`
+- prettier `code --install-extension esbenp.prettier-vscode`
+- live server `code --install-extension ritwickdey.liveserver`
+- vscode-items `code --install-extension vscode-icons-team.vscode-icons`
+- tabnine `code --install-extension tabnine.tabnine-vscode`
+
+
+
+
+
