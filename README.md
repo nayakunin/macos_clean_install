@@ -38,7 +38,6 @@
 - zsh https://ohmyz.sh/
 - iterm2 https://iterm2.com/downloads.html
 
-
 ### VS Code
 - eslint `code --install-extension dbaeumer.vscode-eslint`
 - prettier `code --install-extension esbenp.prettier-vscode`
