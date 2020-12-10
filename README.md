@@ -13,39 +13,60 @@
 
 ### Install brew
 - `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+- `brew update-restart`
 
 ### Browsers
-- chrome https://www.google.com/chrome/
-- firefox https://www.mozilla.org/en-US/firefox/mac/
+- chrome `brew install --cask google-chrome`
+- firefox `brew install --cask firefox`
 
 ### Apps
-- slack https://slack.com/intl/en-ru/downloads/mac
-- telegram https://macos.telegram.org/
+- slack `brew install --cask slack`
+- telegram `brew install --cask telegram`
 
 ### Mini apps
-- spectacle https://www.spectacleapp.com/
-- nightowl https://nightowl.kramser.xyz/
-- tunelblick https://tunnelblick.net/downloads.html
+- spectacle `brew install --cask spectacle`
+- (deprecated) nightowl https://nightowl.kramser.xyz/
+- tunnelblick `brew install --cask tunnelblick`
 
 ### DEV
 - vscode https://code.visualstudio.com/
-- phpstorm
-- datagrip
-- goland
+- phpstorm `brew install --cask phpstorm`
+- datagrip `brew install --cask datagrip`
+- goland `brew install --cask goland`
 - postman `brew install --cask postman`
+
+### Node
+- node `brew install node`
 
 ### Terminal
 - zsh https://ohmyz.sh/
-- iterm2 https://iterm2.com/downloads.html
+- iterm2 `brew install --cask iterm2`
 
 ### VS Code
+#### Settings
+```
+{
+    "window.zoomLevel": 1,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "todo-tree.tree.showScanModeButton": false,
+    "files.autoSave": "afterDelay",
+    "editor.cursorSmoothCaretAnimation": true
+}
+```
+#### Extensions
 - eslint `code --install-extension dbaeumer.vscode-eslint`
 - prettier `code --install-extension esbenp.prettier-vscode`
 - live server `code --install-extension ritwickdey.liveserver`
 - vscode-items `code --install-extension vscode-icons-team.vscode-icons`
 - tabnine `code --install-extension tabnine.tabnine-vscode`
-
-
-
+- es7 React snippets `code --install-extension dsznajder.es7-react-js-snippets`
+- git graph `code --install-extension mhutchie.git-graph`
+- bracket pair colorizer `code --install-extension coenraads.bracket-pair-colorizer`
+- indenticator `code --install-extension sirtori.indenticator`
+- ayu `code --install-extension teabyii.ayu`
+- todo-tree `code --install-extension gruntfuggly.todo-tree`
+- todo+ `code --install-extension fabiospampinato.vscode-todo-plus`
 
 
