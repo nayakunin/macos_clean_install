@@ -1,6 +1,6 @@
 # macos_clean_install
 
-### Set language to English
+### MacOS settings
 - `sudo languagesetup` and then type 1 for English 
 - Add Touch ID
 - Add cyrillic keyboard
@@ -9,7 +9,6 @@
 - Increase `delay until repeat` to almost shortest
 - Disable page navigation with two finger gesture
 - Enable right mouse click with a two finger touch
-
 
 ### Install brew
 - `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
@@ -22,6 +21,7 @@
 ### Apps
 - slack `brew install --cask slack`
 - telegram `brew install --cask telegram`
+- spotify `brew install --cask spotify`
 
 ### Mini apps
 - spectacle `brew install --cask spectacle`
@@ -29,7 +29,7 @@
 - tunnelblick `brew install --cask tunnelblick`
 
 ### DEV
-- vscode https://code.visualstudio.com/
+- vscode `brew install --cask visual-studio-code`
 - phpstorm `brew install --cask phpstorm`
 - datagrip `brew install --cask datagrip`
 - goland `brew install --cask goland`
