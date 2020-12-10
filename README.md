@@ -65,6 +65,11 @@
     {
         "key": "ctrl+cmd+t",
         "command": "workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "alt+cmd+f",
+        "command": "-editor.action.startFindReplaceAction",
+        "when": "editorFocus || editorIsOpen"
     }
 ]
 ```
