@@ -53,7 +53,8 @@
     "workbench.colorTheme": "Ayu Mirage Bordered",
     "todo-tree.tree.showScanModeButton": false,
     "files.autoSave": "afterDelay",
-    "editor.cursorSmoothCaretAnimation": true
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.minimap.enabled": false
 }
 ```
 #### Extensions
