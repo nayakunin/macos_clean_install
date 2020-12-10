@@ -44,8 +44,9 @@
 - iterm2 `brew install --cask iterm2`
 
 ### VS Code
+
 #### Settings
-```
+```json
 {
     "window.zoomLevel": 1,
     "tabnine.experimentalAutoImports": true,
@@ -57,6 +58,17 @@
     "editor.minimap.enabled": false
 }
 ```
+
+#### Keybinings
+```json
+[
+    {
+        "key": "ctrl+cmd+t",
+        "command": "workbench.action.terminal.toggleTerminal"
+    }
+]
+```
+
 #### Extensions
 - eslint `code --install-extension dbaeumer.vscode-eslint`
 - prettier `code --install-extension esbenp.prettier-vscode`
