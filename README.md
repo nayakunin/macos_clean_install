@@ -22,6 +22,7 @@
 - slack `brew install --cask slack`
 - telegram `brew install --cask telegram`
 - spotify `brew install --cask spotify`
+- outlook `brew install --cask microsoft-outlook`
 
 ### Mini apps
 - spectacle `brew install --cask spectacle`
