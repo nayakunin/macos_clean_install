@@ -1,4 +1,4 @@
-# macos_clean_install
+# macos_setup
 
 ### MacOS settings
 - `sudo languagesetup` and then type 1 for English 
