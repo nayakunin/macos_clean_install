@@ -87,5 +87,6 @@
 - ayu `code --install-extension teabyii.ayu`
 - todo-tree `code --install-extension gruntfuggly.todo-tree`
 - todo+ `code --install-extension fabiospampinato.vscode-todo-plus`
+- visual studio keymap `code --install-extension ms-vscode.vs-keybindings`
 
 
