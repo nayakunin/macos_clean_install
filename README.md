@@ -28,6 +28,7 @@
 - spectacle `brew install --cask spectacle`
 - (deprecated) nightowl https://nightowl.kramser.xyz/
 - tunnelblick `brew install --cask tunnelblick`
+- scroll-reverser `brew install --cask scroll-reverser`
 
 ### DEV
 - vscode `brew install --cask visual-studio-code`
