@@ -23,6 +23,7 @@
 - telegram `brew install --cask telegram`
 - spotify `brew install --cask spotify`
 - outlook `brew install --cask microsoft-outlook`
+- discord `brew install --cask discord`
 - logitech options https://www.logitech.com/en-roeu/product/options
 
 ### Mini apps
