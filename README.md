@@ -91,5 +91,7 @@
 - todo-tree `code --install-extension gruntfuggly.todo-tree`
 - todo+ `code --install-extension fabiospampinato.vscode-todo-plus`
 - visual studio keymap `code --install-extension ms-vscode.vs-keybindings`
+- HTML CSS support `code --install-extension ecmel.vscode-html-css`
+- color highlight `code --install-extension naumovs.color-highlight`
 
 
