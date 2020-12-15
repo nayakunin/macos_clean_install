@@ -17,6 +17,7 @@
 ### Browsers
 - chrome `brew install --cask google-chrome`
 - firefox `brew install --cask firefox`
+- edge `brew install --cask microsoft-edge`
 
 ### Apps
 - slack `brew install --cask slack`
