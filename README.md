@@ -39,8 +39,9 @@
 - goland `brew install --cask goland`
 - postman `brew install --cask postman`
 
-### Node
+### Languages
 - node `brew install node`
+- go `brew install go`
 
 ### Terminal
 - zsh https://ohmyz.sh/
