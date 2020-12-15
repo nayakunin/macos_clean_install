@@ -22,7 +22,7 @@
 - slack `brew install --cask slack`
 - telegram `brew install --cask telegram`
 - spotify `brew install --cask spotify`
-- outlook `brew install --cask microsoft-outlook`
+- microsoft office `brew install --cask microsoft-office`
 - discord `brew install --cask discord`
 - logitech options https://www.logitech.com/en-roeu/product/options
 
