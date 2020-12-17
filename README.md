@@ -56,7 +56,7 @@
     "window.zoomLevel": 1,
     "tabnine.experimentalAutoImports": true,
     "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "Ayu Light Bordered",
+    "workbench.colorTheme": "Ayu Mirage Bordered",
     "todo-tree.tree.showScanModeButton": false,
     "files.autoSave": "afterDelay",
     "editor.cursorSmoothCaretAnimation": true,
@@ -72,7 +72,10 @@
     "[typescriptreact]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
-    "explorer.compactFolders": false
+    "explorer.compactFolders": false,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "editor.rulers": [80,100,120]
 }
 ```
 
