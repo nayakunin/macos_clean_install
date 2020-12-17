@@ -110,5 +110,7 @@
 - visual studio keymap `code --install-extension ms-vscode.vs-keybindings`
 - HTML CSS support `code --install-extension ecmel.vscode-html-css`
 - color highlight `code --install-extension naumovs.color-highlight`
+- auto rename tags `code --install-extension formulahendry.auto-rename-tag`
+- auto close tags `code --install-extension formulahendry.auto-close-tag`
 
 
