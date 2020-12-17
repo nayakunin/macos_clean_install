@@ -39,6 +39,7 @@
 - datagrip `brew install --cask datagrip`
 - goland `brew install --cask goland`
 - postman `brew install --cask postman`
+- kuberntes cli `brew install kubernetes-cli`
 
 ### Languages
 - node `brew install node`
