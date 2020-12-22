@@ -9,6 +9,7 @@
 - Increase `delay until repeat` to almost shortest
 - Disable page navigation with two finger gesture
 - Enable right mouse click with a two finger touch
+- Disable `Add full stop with double space` system preferences -> keyboard -> text tab
 
 ### Install brew
 - `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
